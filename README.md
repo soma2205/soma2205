@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and AI enthu
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/somanath-m-/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://somanath.netlify.app/)
-[![Leetcode](https://img.shields.io/badge/LeetCode-<your_username>-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/somanath__/)
+[![Leetcode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/somanath__/)
 
 ## 📊 GitHub Stats
 
