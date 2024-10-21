@@ -1,4 +1,4 @@
-#### Hi there, I'm Somanath! 👋
+# Hi there, I'm Somanath! 👋
 Welcome to my GitHub profile! I'm a passionate full-stack developer and AI enthusiast.
 
 ## About Me
