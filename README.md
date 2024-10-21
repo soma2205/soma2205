@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and AI enthu
 
 ## About Me
 - 👋 Hi, I'm Somanath, a passionate full-stack developer and AI enthusiast.
+- 📫 How to reach me somanath.m2205gmail.com
 - 🌟 I love combining technology and creativity to build innovative solutions.
 - 📚 I enjoy learning new skills, especially in web development, AI, and data analysis.
 - 🎨 When I'm not coding, I love exploring design and animation, making complex ideas visually appealing.
@@ -11,20 +12,21 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer and AI enthu
 
 ## 🛠 Skills & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F25028?logo=powerbi&logoColor=white&style=flat)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat)
-![Anime.js](https://img.shields.io/badge/-Anime.js-FF69B4?logo=anime.js&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat&height=40&width=120)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat&height=40&width=120)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat&height=40&width=120)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat&height=40&width=120)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat&height=40&width=120)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat&height=40&width=120)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat&height=40&width=120)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat&height=40&width=120)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat&height=40&width=120)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat&height=40&width=120)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F25028?logo=powerbi&logoColor=white&style=flat&height=40&width=120)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat&height=40&width=120)
+![Anime.js](https://img.shields.io/badge/-Anime.js-FF69B4?logo=anime.js&logoColor=white&style=flat&height=40&width=120)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat&height=40&width=120)
+
 
 
 ## 🚀 My Projects
